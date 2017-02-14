@@ -1,0 +1,19 @@
+.principal{
+	width: auto;
+	color: #443333;
+	margin: 0 auto;
+	font-family:sans-serif;
+}
+
+.menu ul li {
+	display: inline-block ;
+
+}
+
+
+.search {
+	float: right;
+}
+.rodape {
+	text-align: center;
+}
